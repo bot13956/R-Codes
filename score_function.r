@@ -3,7 +3,7 @@
 
 score_func <-function(x){
   if(x > 100 | x < 0){
-    print("Score if out of range. Please enter a score in range [0,100]")
+    print("Score is out of range. Please enter a score in range [0,100]")
   }
   else {
     if(x >=90 & x <= 100){
