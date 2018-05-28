@@ -1,4 +1,4 @@
-#This code uses random numbers to calculate the error propagation associated to the spread (d = X - Y) of two random variables X and Y. The simulated standard deviation is compared with theoretical values predicted using the Binomial distribution.
+#This code uses random numbers to calculate the error propagation associated with the spread (d = X - Y) of two random variables X and Y. The simulated standard deviation is compared with theoretical values predicted using the Binomial distribution.
 
 
 B<-1000
