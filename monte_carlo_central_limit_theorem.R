@@ -1,6 +1,6 @@
 #This code uses random numbers to calculate the error propagation associated with the spread (d = X - Y) 
 #of two random variables X and Y. The simulated standard deviation is compared with theoretical values predicted
-#using the Binomial distribution. Finally, the confidence interval (margin of error is calculated for the spread). 
+#using the Binomial distribution. Finally, the confidence interval (margin of error) is calculated for the spread. 
 #Such calculations are very useful for doing polls analysis for predicting the outcome of a presidential election.                                                                  
 
 
