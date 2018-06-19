@@ -1,5 +1,5 @@
 # Program to assign letter grades to exam scores for a 100 points exam. Program takes as 
-#imput a vector containing scores in the range 0 to 100.
+#input a vector containing scores in the range 0 to 100.
 
 
 score_func <-function(x){
