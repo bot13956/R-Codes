@@ -1,0 +1,1508 @@
+Retailer country,Order method type,Retailer type,Product line,Product type,Product,Year,Quarter,Revenue,Quantity,Gross margin
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q1 2013,38110.38,3502,0.41877462
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q1 2013,72741.6,3108,0.31936553
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q1 2013,35910.72,674,0.34365616
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q1 2013,70487.56,572,0.35437799
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q1 2013,95335.29,1503,0.26880025
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q1 2013,34916.52,1844,0.47188322
+United States,Web,Department Store,Camping Equipment,Tents,Star Lite,2013,Q1 2013,199720.16,568,0.28900518
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2013,Q1 2013,85332.3,138,0.35958599
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 2,2013,Q1 2013,422167.9,763,0.2904934
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 3,2013,Q1 2013,89781.38,127,0.35779557
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q1 2013,169912.35,215,0.37997444
+United States,Web,Department Store,Camping Equipment,Tents,Star Peg,2013,Q1 2013,5029.36,2566,0.48979592
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q1 2013,247868.64,2896,0.29898353
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q1 2013,399571.71,2829,0.39111305
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q1 2013,226810.88,2018,0.53244791
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q1 2013,27768.48,697,0.50401606
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q1 2013,2418.05,137,0.52124646
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q1 2013,81194.68,818,0.3426355
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q1 2013,52793.46,723,0.2810189
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q1 2013,639468.44,2281,0.40551959
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q1 2013,200117.76,568,0.39449932
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q1 2013,132253.16,4346,0.50708172
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q1 2013,107468.37,1539,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q1 2013,14586.03,999,0.5376912
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q1 2013,39385.88,2466,0.53041547
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q1 2013,56660.42,2113,0.37833659
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q1 2013,15132.16,514,0.38858696
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q1 2013,11359.12,428,0.33006782
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,35207.3,1035,0.44909436
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q1 2013,7353.15,141,0.44870566
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q1 2013,34807.94,541,0.36851104
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q1 2013,5823.69,2365,0.25683716
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q1 2013,5075,725,0.73142857
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q1 2013,4102,586,0.66714286
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q1 2013,1720,344,0.608
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q1 2013,8353.8,1692,0.63744883
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q1 2013,5925,2581,0.19411814
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q1 2013,7224,1204,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q1 2013,4340,124,0.59885714
+United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,198.74,1434,-12.85367817
+United States,Web,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q1 2013,306,51,0.54
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q1 2013,212336.6,467,0.51394625
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2013,Q1 2013,212539.62,249,0.48256937
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2013,Q1 2013,38464.36,76,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2013,Q1 2013,231412.18,274,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2013,Q1 2013,182082.48,153,0.49720533
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q1 2013,312817.2,526,0.42560192
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2013,Q1 2013,149840.68,116,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q1 2013,65761.28,76,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2013,Q1 2013,83607.9,1145,0.61106546
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2013,Q1 2013,37066.22,422,0.53093679
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2013,Q1 2013,84255.6,542,0.41336042
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2013,Q1 2013,30137.05,3048,0.71681369
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2013,Q1 2013,12550,1145,0.45258964
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2013,Q1 2013,44298.9,205,0.63117594
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2013,Q1 2013,32450.74,3130,0.75404259
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q1 2013,95124.14,1823,0.32981985
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q1 2013,34997.32,284,0.35437799
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q1 2013,19551.95,1045,0.46552646
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q1 2013,568569.54,1617,0.28900518
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q1 2013,78082.8,310,0.40447832
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q1 2013,21219.4,1343,0.52531646
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Extreme,2013,Q1 2013,7417.18,137,0.44052457
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,23864.25,705,0.44638109
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q1 2013,14154.84,2373,0.68817874
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q1 2013,2410,482,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q1 2013,4890,978,0.642
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q1 2013,2628,438,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q1 2013,1955,85,0.60869565
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,915.25,175,0.63288719
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q1 2013,8252.16,672,0.35504886
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q1 2013,19460.65,5450,0.76195554
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q1 2013,56989.46,1067,0.34526507
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q1 2013,175356.29,1423,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q1 2013,31334.42,494,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q1 2013,237320.28,1646,0.4798169
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q1 2013,60500.58,4723,0.60108597
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q1 2013,20813.91,1079,0.48159668
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q1 2013,340710.85,551,0.35958599
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2013,Q1 2013,302655.1,547,0.2904934
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q1 2013,381040.66,539,0.35779557
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q1 2013,14524.56,18,0.39275269
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2013,Q1 2013,6034.88,3016,0.50023861
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q1 2013,115079.25,825,0.38346835
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q1 2013,419566.56,1653,0.40903298
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q1 2013,144487.45,1195,0.56537921
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q1 2013,50309.52,1261,0.50471879
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q1 2013,25839.6,1464,0.52124646
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q1 2013,146110.72,1472,0.3426355
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q1 2013,89595.54,1227,0.2810189
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q1 2013,418908.48,1189,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q1 2013,495783.18,1120,0.46035765
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q1 2013,49783.68,1608,0.51550388
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q1 2013,8519.26,122,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2013,Q1 2013,41748.86,2858,0.53791553
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q1 2013,4269.72,156,0.39093898
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q1 2013,2296.32,78,0.38858696
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q1 2013,59588.72,1098,0.44186719
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q1 2013,10987.56,414,0.33006782
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,40641.1,1199,0.44712963
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q1 2013,18200.35,349,0.44870566
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q1 2013,26912.15,853,0.36608558
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q1 2013,39680.97,615,0.37029135
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q1 2013,8315.19,299,0.54009349
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q1 2013,8253.6,240,0.5457982
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q1 2013,552.92,92,0.69550749
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q1 2013,3598,514,0.66714286
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q1 2013,10022.46,1703,0.58879756
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q1 2013,1355,271,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q1 2013,4095,117,0.59885714
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,2013,Q1 2013,102,17,0.52833333
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,313.8,60,0.63288719
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q1 2013,11152.26,1113,0.47704591
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q1 2013,5435.76,1562,0.75574713
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Lite,2013,Q1 2013,207104.18,589,0.28900518
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Dome,2013,Q1 2013,102027.75,165,0.35958599
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 3,2013,Q1 2013,93316.08,132,0.35779557
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q1 2013,7836.6,444,0.52124646
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q1 2013,41454.05,145,0.41704852
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q1 2013,116970.24,332,0.39449932
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q1 2013,9273.6,315,0.38858696
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q1 2013,8837.82,333,0.33006782
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,21156.25,625,0.44638109
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q1 2013,12935.5,410,0.36608558
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2013,Q1 2013,8219.21,239,0.5457982
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q1 2013,0,145,
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q1 2013,2618,374,0.73142857
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q1 2013,2695,385,0.66714286
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q1 2013,1345,269,0.61
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q1 2013,0,145,
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q1 2013,666,111,0.52833333
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,0,145,
+United States,Sales visit,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2013,Q1 2013,109380.4,124,0.48883347
+United States,Special,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q1 2013,81609.12,324,0.40447832
+United States,Special,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q1 2013,4068.96,692,0.68367347
+United States,Special,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q1 2013,2020,404,0.642
+United States,Special,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q1 2013,2640,440,0.54
+United States,Special,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q1 2013,2070,90,0.60869565
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q1 2013,76563.96,1452,0.33681016
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q1 2013,67653.27,549,0.35437799
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q1 2013,32447.04,1752,0.4600432
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q1 2013,468006.22,1331,0.28900518
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2013,Q1 2013,237919,430,0.2904934
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q1 2013,119391.12,474,0.40447832
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q1 2013,15018.36,941,0.53007519
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Extreme,2013,Q1 2013,10232.46,189,0.44052457
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,29449.5,870,0.44638109
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q1 2013,8322,1387,0.69
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q1 2013,4620,660,0.73142857
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q1 2013,9653,1379,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q1 2013,16584.96,2468,0.63988095
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q1 2013,5370,1074,0.61
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q1 2013,1840,368,0.608
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q1 2013,8725,1745,0.642
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q1 2013,10253,2074,0.62577782
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q1 2013,6912,1152,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q1 2013,8119,353,0.60869565
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q1 2013,11206.3,325,0.59281833
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q1 2013,1386,231,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,439.32,84,0.63288719
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q1 2013,1512,252,0.54
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q1 2013,40946.94,3814,0.42801294
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q1 2013,73980.19,1403,0.33681016
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q1 2013,96982.01,787,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q1 2013,82712.72,1304,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q1 2013,126734.22,879,0.4798169
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q1 2013,73124.32,5822,0.59315287
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q1 2013,15384.6,814,0.47089947
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q1 2013,139128.75,225,0.35958599
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2013,Q1 2013,188122,340,0.2904934
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q1 2013,155526.8,220,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q1 2013,87041.76,624,0.38346835
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q1 2013,317634.66,1249,0.41017142
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q1 2013,128769.15,1065,0.56537921
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q1 2013,17649.12,443,0.50401606
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q1 2013,21263.7,1219,0.51558054
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q1 2013,191571.8,1930,0.3426355
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q1 2013,113254.02,1551,0.2810189
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q1 2013,125505.71,439,0.41704852
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q1 2013,239225.28,679,0.39449932
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q1 2013,261205.52,585,0.46500059
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q1 2013,31038.32,1013,0.51044386
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2013,Q1 2013,37862.75,2627,0.53167031
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q1 2013,72457.74,2712,0.37606334
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q1 2013,24670.72,838,0.38858696
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q1 2013,29993.56,554,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q1 2013,12394.18,467,0.33006782
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q1 2013,54396.95,1607,0.44638109
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q1 2013,8917.65,171,0.44870566
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q1 2013,32187.72,1041,0.35316947
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q1 2013,20910.5,325,0.36851104
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q1 2013,30959.95,1855,0.40083883
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q1 2013,25620.55,745,0.5457982
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q1 2013,5328,888,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q1 2013,4014.68,1107,0.49539938
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q1 2013,12731.25,2104,0.60006441
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q1 2013,2860,572,0.608
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q1 2013,0,439,
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2013,Q1 2013,1302.27,688,-0.01435186
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q2 2013,54295.4,4485,0.34577883
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q2 2013,121689.43,5298,0.30645464
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q2 2013,16053.11,4526,0.76035173
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q2 2013,109055.42,2054,0.34135892
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q2 2013,314852.65,2555,0.35437799
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q2 2013,54613.23,861,0.26880025
+United States,Web,Department Store,Camping Equipment,Tents,Star Lite,2013,Q2 2013,25538.97,69,0.32456164
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2013,Q2 2013,186123.35,301,0.35958599
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 3,2013,Q2 2013,138560.24,196,0.35779557
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q2 2013,256669.27,324,0.38146082
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,87387.39,1021,0.29898353
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,25387.18,182,0.38346835
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q2 2013,117473.68,2994,0.49638557
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q2 2013,36378.06,2093,0.51383196
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q2 2013,252021.14,2539,0.3426355
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q2 2013,119162.4,1592,0.29860426
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q2 2013,520657.2,1917,0.38637703
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q2 2013,70333.35,2790,0.48230818
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q2 2013,13686.68,196,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q2 2013,8479.42,586,0.53351762
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q2 2013,33962.24,2132,0.529183
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q2 2013,77245.56,2914,0.3711434
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q2 2013,32442.88,1102,0.38858696
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q2 2013,26168.44,986,0.33006782
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q2 2013,103127.66,3083,0.43976795
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q2 2013,15795.66,306,0.44304322
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q2 2013,40308.38,625,0.37001313
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q2 2013,76549.69,2806,0.53117067
+United States,Web,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2013,Q2 2013,44650.23,1307,0.5427719
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q2 2013,5394,899,0.69
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q2 2013,2812.68,468,0.69550749
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q2 2013,5754,822,0.73142857
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q2 2013,14642.04,2116,0.66327916
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q2 2013,1275,255,0.61
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q2 2013,2500,500,0.642
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q2 2013,6555,1311,0.63
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,6966,1161,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q2 2013,5805.1,168,0.59368142
+United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q2 2013,1485.32,284,0.63288719
+United States,Web,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q2 2013,1500,250,0.54
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q2 2013,56495.55,129,0.49537618
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2013,Q2 2013,153020.92,206,0.45368999
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2013,Q2 2013,91605.91,181,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2013,Q2 2013,75166.73,89,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2013,Q2 2013,286374.08,248,0.50847297
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q2 2013,308780.4,467,0.48336358
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2013,Q2 2013,188592.58,146,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q2 2013,71818.24,83,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2013,Q2 2013,55860.3,765,0.61106546
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2013,Q2 2013,45190.16,536,0.51132724
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2013,Q2 2013,0,206,
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2013,Q2 2013,11197.2,1085,0.72868217
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2013,Q2 2013,36748.58,2944,0.51932837
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2013,Q2 2013,8011.5,763,0.75714286
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q2 2013,17350.2,1428,0.34814815
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q2 2013,40972.32,769,0.34365616
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q2 2013,120390.3,835,0.4798169
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q2 2013,307021.26,852,0.30623697
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2013,Q2 2013,453152.7,819,0.2904934
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 6,2013,Q2 2013,45046.53,57,0.37997444
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,63079.83,737,0.29898353
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,85507.37,613,0.38346835
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q2 2013,38973.9,2265,0.50892136
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q2 2013,36726.2,370,0.3426355
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q2 2013,86163.6,1180,0.2810189
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q2 2013,119269.38,402,0.28096667
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q2 2013,65811.93,2193,0.50016661
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q2 2013,61276.51,4287,0.5277595
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 2,2013,Q2 2013,43966.44,1673,0.36567732
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 4,2013,Q2 2013,20223.85,701,0.37608319
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q2 2013,12234.94,461,0.33006782
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q2 2013,98966.64,2970,0.43761049
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q2 2013,3494.05,67,0.44870566
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q2 2013,39436.92,1287,0.34731211
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q2 2013,10487.42,163,0.36851104
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q2 2013,17033.88,2898,0.68355536
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q2 2013,15818.74,2311,0.64645604
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q2 2013,1435,287,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q2 2013,7260,1452,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,1260,210,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q2 2013,10971,477,0.60869565
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q2 2013,2166,361,0.52833333
+United States,Web,Warehouse Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q2 2013,44994.56,52,0.51345229
+United States,Web,Warehouse Store,Golf Equipment,Putters,Blue Steel Max Putter,2013,Q2 2013,41012.4,239,0.46503497
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q2 2013,31500.12,2582,0.3508139
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q2 2013,23133.44,992,0.31689537
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q2 2013,108138.38,2041,0.33997744
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q2 2013,151326.44,1228,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q2 2013,279092,4400,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q2 2013,109288.44,758,0.4798169
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q2 2013,11490.57,1449,0.48675914
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q2 2013,75488.66,4076,0.46005135
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q2 2013,575683.85,931,0.35958599
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q2 2013,124865.82,158,0.37997444
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,343900.62,4018,0.29898353
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,196262.43,1407,0.38346835
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q2 2013,285347.6,2360,0.56537921
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q2 2013,19282.56,484,0.50401606
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q2 2013,37421.02,377,0.3426355
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q2 2013,252020.16,3408,0.2900568
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q2 2013,197724.8,728,0.38637703
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q2 2013,47915.52,136,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q2 2013,698536.51,1559,0.46686549
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q2 2013,124765.02,5498,0.46307066
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q2 2013,124227.57,1779,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q2 2013,52409.81,3288,0.5294774
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q2 2013,44101.4,1640,0.38009224
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q2 2013,54169.6,1840,0.38858696
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q2 2013,98141.22,1815,0.43982406
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q2 2013,57831.15,1833,0.36608558
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q2 2013,26485.74,409,0.37258049
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q2 2013,151104.12,5587,0.52709608
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q2 2013,15303.55,445,0.5457982
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q2 2013,5406,901,0.69
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q2 2013,2355.92,392,0.69550749
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q2 2013,5026,718,0.73142857
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q2 2013,6517,931,0.66714286
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q2 2013,4580,916,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q2 2013,4510,902,0.608
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q2 2013,2315,463,0.642
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q2 2013,9685,1937,0.63
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,13458,2243,0.54
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q2 2013,2576,112,0.60869565
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q2 2013,6473.6,187,0.59443277
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2013,Q2 2013,387.02,74,0.63288719
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q2 2013,1164,194,0.54
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Lite,2013,Q2 2013,71435.09,193,0.32456164
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Peg,2013,Q2 2013,5885.88,3003,0.48979592
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,73511.23,527,0.38346835
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q2 2013,21095.05,535,0.49885874
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q2 2013,2435.7,138,0.52124646
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q2 2013,62930.84,634,0.3426355
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q2 2013,176345.33,531,0.35763408
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q2 2013,3546.2,68,0.44870566
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q2 2013,793.32,132,0.69550749
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q2 2013,1687,241,0.73142857
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q2 2013,931,133,0.66714286
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q2 2013,800,160,0.642
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,858,143,0.54
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q2 2013,4270,122,0.59885714
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q2 2013,1044,174,0.54
+United States,Sales visit,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q2 2013,77517.15,177,0.49537618
+United States,Sales visit,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q2 2013,102486,155,0.48336358
+United States,Sales visit,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q2 2013,88959.86,253,0.28900518
+United States,Sales visit,Warehouse Store,Camping Equipment,Tents,Star Gazer 3,2013,Q2 2013,116645.1,165,0.35779557
+United States,Sales visit,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,64192.5,750,0.29898353
+United States,Sales visit,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q2 2013,4680,780,0.69
+United States,Sales visit,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q2 2013,11176.34,1646,0.64359352
+United States,Sales visit,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q2 2013,2045,409,0.608
+United States,Sales visit,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q2 2013,2438,106,0.60869565
+United States,Sales visit,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q2 2013,384,64,0.52833333
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,84134.97,983,0.29898353
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,106709.85,765,0.38346835
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q2 2013,12353.28,192,0.36851104
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q2 2013,39417.78,1461,0.52594514
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q2 2013,43732.36,6986,0.53194888
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q2 2013,29369.2,2468,0.33445378
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q2 2013,65807.04,1248,0.33681016
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q2 2013,133799.04,928,0.4798169
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q2 2013,213045.54,594,0.30296593
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2013,Q2 2013,309294.7,559,0.2904934
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 3,2013,Q2 2013,142094.94,201,0.35779557
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 6,2013,Q2 2013,56900.88,72,0.37997444
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,84819.69,991,0.29898353
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,125401.51,899,0.38346835
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q2 2013,26053.8,1506,0.51156069
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q2 2013,148890,1500,0.3426355
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q2 2013,57174.66,783,0.2810189
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q2 2013,67051.94,226,0.28096667
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q2 2013,37166.32,1213,0.51044386
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q2 2013,45884.82,3194,0.53013873
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 2,2013,Q2 2013,29762.55,1121,0.37212806
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 4,2013,Q2 2013,12423.68,422,0.38858696
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q2 2013,16828.47,647,0.31641676
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q2 2013,63747.55,1894,0.44321688
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q2 2013,23870.24,772,0.35316947
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q2 2013,12530.28,2131,0.68367347
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q2 2013,2908.84,484,0.69550749
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q2 2013,1869,267,0.73142857
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q2 2013,3430,490,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q2 2013,14091.84,2097,0.63988095
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q2 2013,3895,779,0.61
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q2 2013,6040,1208,0.608
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q2 2013,3185,637,0.642
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,3414,569,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q2 2013,10143,441,0.60869565
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q2 2013,3567.2,104,0.59067055
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q2 2013,1386,231,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q2 2013,538.69,103,0.63288719
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q2 2013,35212.5,5625,0.53194888
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q2 2013,44715.51,3717,0.34164589
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q2 2013,34196.29,1481,0.31009095
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q2 2013,102280.9,830,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q2 2013,288543.07,4549,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q2 2013,84489.48,586,0.4798169
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q2 2013,341329.2,552,0.35958599
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2013,Q2 2013,357431.8,646,0.2904934
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q2 2013,384575.36,544,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q2 2013,71126.1,90,0.37997444
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2013,Q2 2013,14578.48,7438,0.48979592
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,113663.52,1328,0.29898353
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q2 2013,439279.5,1731,0.40891847
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q2 2013,31425.71,797,0.49885874
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q2 2013,13649.7,789,0.51156069
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q2 2013,186387.36,2520,0.29018792
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q2 2013,67348.63,227,0.28096667
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q2 2013,227058.35,506,0.46765543
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q2 2013,124523.52,5632,0.45725916
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q2 2013,47047.52,2996,0.52239778
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q2 2013,59677.65,2239,0.37457105
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q2 2013,18204.35,631,0.37608319
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q2 2013,52569.94,971,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q2 2013,19263.16,623,0.35316947
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q2 2013,28695.64,446,0.36851104
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q2 2013,11933.33,347,0.5457982
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q2 2013,5817.68,968,0.69550749
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q2 2013,4256,608,0.73142857
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q2 2013,5208,744,0.66714286
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q2 2013,8794.52,1529,0.579263
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q2 2013,2830,566,0.61
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q2 2013,3285,657,0.608
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q2 2013,12460.7,2543,0.62244898
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q2 2013,10170,1695,0.54
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q2 2013,9912.7,289,0.59067055
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2013,Q2 2013,627.6,120,0.63288719
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q2 2013,2424,404,0.54
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q2 2013,129326.49,1511,0.29898353
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q2 2013,164040.24,1176,0.38346835
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q2 2013,109060.82,902,0.56537921
+China,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q2 2013,53239.8,1994,0.52097378
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q3 2013,29372.88,2398,0.35341172
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q3 2013,50362.52,2164,0.31551241
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q3 2013,162252.11,3042,0.34436144
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q3 2013,214173.74,1738,0.35437799
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,30710.34,213,0.4798169
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q3 2013,13592.46,716,0.47323737
+United States,Web,Department Store,Camping Equipment,Tents,Star Lite,2013,Q3 2013,181435.92,516,0.28900518
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2013,Q3 2013,32772.55,53,0.35958599
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,302101.8,546,0.2904934
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 3,2013,Q3 2013,101092.42,143,0.35779557
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,184994.13,232,0.38549402
+United States,Web,Department Store,Camping Equipment,Tents,Star Peg,2013,Q3 2013,8471.92,4272,0.49574595
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q3 2013,226299.96,2644,0.29898353
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q3 2013,280374.9,2010,0.38346835
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,76173.3,630,0.56537921
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q3 2013,40875.84,1026,0.50401606
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q3 2013,29334.26,1977,0.47600928
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,57455.8,594,0.33268878
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q3 2013,130705.8,1790,0.2810189
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q3 2013,185231.2,682,0.38637703
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,645450.24,1832,0.39449932
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q3 2013,94483.99,3071,0.51245708
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q3 2013,275549.18,3946,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q3 2013,31971.39,2241,0.52686605
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q3 2013,14364,900,0.53007519
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q3 2013,55833.39,2072,0.38136946
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q3 2013,19194.88,652,0.38858696
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q3 2013,47029.6,1790,0.323273
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q3 2013,24778.2,732,0.44638109
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q3 2013,8083.25,155,0.44870566
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q3 2013,13503.4,428,0.36608558
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,15521.36,238,0.37699145
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q3 2013,131345.57,4843,0.52840457
+United States,Web,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2013,Q3 2013,36625.35,1065,0.5457982
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q3 2013,13176,2196,0.69
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q3 2013,3599.99,599,0.69550749
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q3 2013,5607,801,0.73142857
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q3 2013,4788,684,0.66714286
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q3 2013,3020,604,0.61
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q3 2013,725,145,0.608
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q3 2013,910,182,0.642
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q3 2013,4295,859,0.63
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q3 2013,3762,627,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q3 2013,2691,117,0.60869565
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q3 2013,4340,124,0.59885714
+United States,Web,Department Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q3 2013,1194,199,0.52833333
+United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q3 2013,1019.85,195,0.63288719
+United States,Web,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,984,164,0.54
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q3 2013,217661.15,497,0.49537618
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2013,Q3 2013,213468.2,242,0.48883347
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2013,Q3 2013,178150.72,352,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2013,Q3 2013,135975.77,161,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2013,Q3 2013,132828.3,110,0.48738334
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q3 2013,244644,370,0.48336358
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2013,Q3 2013,87837.64,68,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q3 2013,384184.32,444,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2013,Q3 2013,72216.78,989,0.61106546
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2013,Q3 2013,45358.78,538,0.51132724
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2013,Q3 2013,37923.6,221,0.46503497
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2013,Q3 2013,44048.27,4258,0.7293333
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2013,Q3 2013,51851.6,4175,0.51689051
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2013,Q3 2013,43751.4,210,0.61745224
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2013,Q3 2013,7959,758,0.75714286
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q3 2013,9041.04,2598,0.75574713
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q3 2013,17506.68,276,0.26880025
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,58720.25,493,0.37031944
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2013,Q3 2013,129175.57,199,0.38994657
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,226853,410,0.2904934
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,24956.4,30,0.41097274
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q3 2013,60954.96,242,0.40447832
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,15355.57,127,0.56537921
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,66284.72,682,0.33455252
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,312414.57,1053,0.28096667
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q3 2013,211307.67,483,0.45397609
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q3 2013,61249.68,2631,0.3556701
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,13227.06,204,0.37336642
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q3 2013,1404,234,0.69
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q3 2013,23905.35,3585,0.63708124
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q3 2013,480,96,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q3 2013,3030,606,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q3 2013,4185,837,0.642
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q3 2013,1570,314,0.63
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q3 2013,4680,780,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q3 2013,8073,351,0.60869565
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q3 2013,1025.08,196,0.63288719
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,246,41,0.54
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q3 2013,15264.61,1237,0.35818603
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q3 2013,16098.17,4519,0.76139213
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q3 2013,295816.92,5579,0.34047846
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q3 2013,77881.36,632,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q3 2013,145571.85,2295,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,57069.28,752,0.0117275
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q3 2013,34986.8,2765,0.59615769
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q3 2013,82079.95,4339,0.47136907
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2013,Q3 2013,460270.58,1309,0.28900518
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,367944.5,665,0.2904934
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q3 2013,256619.22,363,0.35779557
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,67507.21,83,0.39754583
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q3 2013,333801,3900,0.29898353
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q3 2013,460317,3300,0.38346835
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q3 2013,681839.16,2707,0.40447832
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,216428.9,1790,0.56537921
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q3 2013,87757.21,2208,0.50283196
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q3 2013,11185.8,905,0.41909385
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,49974.72,521,0.32941295
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q3 2013,338374.68,4634,0.2810189
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q3 2013,463621.2,1707,0.38637703
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,151145.28,429,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q3 2013,478614.06,1094,0.45397609
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q3 2013,94035.92,3059,0.51204816
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q3 2013,147830.11,2117,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2013,Q3 2013,50192.75,3455,0.53536616
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q3 2013,46177.11,2950,0.52086651
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q3 2013,13159.68,447,0.38858696
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q3 2013,61533.36,1134,0.44178475
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q3 2013,15154.34,571,0.33006782
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q3 2013,70363.16,2107,0.43883731
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q3 2013,4537.05,87,0.44870566
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q3 2013,22684.45,719,0.36608558
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,46913.79,726,0.37124287
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q3 2013,31512.64,1168,0.52594514
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q3 2013,11202,1867,0.69
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q3 2013,434,62,0.73142857
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q3 2013,1127,161,0.66714286
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q3 2013,2920,584,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q3 2013,13677.9,2793,0.62223368
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q3 2013,7362,1227,0.54
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q3 2013,3841.6,112,0.59067055
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2013,Q3 2013,130.75,25,0.63288719
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q3 2013,28262.16,1224,0.31009095
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q3 2013,54837.35,445,0.35437799
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q3 2013,23527.26,1854,0.59732072
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q3 2013,8043.93,417,0.48159668
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,391736.4,708,0.2904934
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,52616.63,66,0.38536543
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Peg,2013,Q3 2013,5572.28,2843,0.48979592
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q3 2013,156030.57,1823,0.29898353
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q3 2013,92063.4,660,0.38346835
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,60575.91,501,0.56537921
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q3 2013,10933.6,632,0.51156069
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,52983.92,539,0.33892774
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q3 2013,46513.74,637,0.2810189
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q3 2013,99677.2,367,0.38637703
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,356900.16,1013,0.39449932
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q3 2013,34194.24,1116,0.51044386
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q3 2013,51953.52,744,0.41028211
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q3 2013,17740.22,1226,0.53351762
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q3 2013,15273.72,957,0.53007519
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q3 2013,18478.98,689,0.37844892
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q3 2013,10451.2,355,0.38858696
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q3 2013,18843.4,710,0.33006782
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q3 2013,6310.15,121,0.44870566
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,9366.59,145,0.3710251
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q3 2013,29273.3,1085,0.52594514
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2013,Q3 2013,5880.69,171,0.5457982
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q3 2013,1248,208,0.69
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q3 2013,2821,403,0.66714286
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q3 2013,2035,407,0.608
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q3 2013,2480,496,0.642
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q3 2013,1480,296,0.63
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q3 2013,2694,449,0.54
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q3 2013,2277,99,0.60869565
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,300,50,0.54
+United States,Sales visit,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2013,Q3 2013,6947.49,33,0.62143162
+United States,Sales visit,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q3 2013,7037.55,2005,0.75783476
+United States,Sales visit,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q3 2013,57277.29,903,0.26880025
+United States,Sales visit,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,66466.98,461,0.4798169
+United States,Sales visit,Warehouse Store,Camping Equipment,Tents,Star Dome,2013,Q3 2013,37101,60,0.35958599
+United States,Sales visit,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,47396.72,392,0.56537921
+United States,Sales visit,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,66305.68,668,0.3426355
+United States,Sales visit,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q3 2013,2553,111,0.60869565
+United States,Sales visit,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,804,134,0.54
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q3 2013,11414.4,3280,0.75574713
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q3 2013,93622.68,1476,0.26880025
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,71035.8,541,0.42880914
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q3 2013,435566.87,1207,0.30722463
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2013,Q3 2013,115240.43,181,0.37803078
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,287716,520,0.2904934
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,18301.36,22,0.41097274
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,77382.4,640,0.56537921
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,1149.28,22,0.0007657
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,178904.07,603,0.28096667
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q3 2013,107622.54,246,0.45397609
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q3 2013,34221.6,1470,0.3556701
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,14229.38,220,0.37182084
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q3 2013,3023.03,503,0.69550749
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q3 2013,4025,575,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q3 2013,13220.13,1947,0.64359352
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q3 2013,2220,444,0.61
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q3 2013,5830,1166,0.608
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q3 2013,6935,1387,0.642
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q3 2013,4890,815,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q3 2013,6256,272,0.60869565
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q3 2013,3910.2,114,0.59067055
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q3 2013,564,94,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q3 2013,643.29,123,0.63288719
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,1074,179,0.54
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q3 2013,44345.84,7084,0.53194888
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q3 2013,20968.29,1743,0.34164589
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q3 2013,39667.6,1736,0.30284464
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q3 2013,20584.2,5915,0.75574713
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q3 2013,87923.3,1685,0.32981985
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q3 2013,102404.13,831,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q3 2013,180141.2,2840,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q3 2013,158911.36,1285,0.39352983
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q3 2013,42067.35,2295,0.45444626
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2013,Q3 2013,611818.8,1740,0.28900518
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q3 2013,327918.94,510,0.38411609
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2013,Q3 2013,566025.9,1023,0.2904934
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q3 2013,311053.6,440,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q3 2013,50703.25,63,0.39116329
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q3 2013,112037.31,1309,0.29898353
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q3 2013,246478.83,1767,0.38346835
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q3 2013,460184.76,1827,0.40447832
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q3 2013,181969.55,1505,0.56537921
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q3 2013,55438.58,1406,0.49885874
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q3 2013,31653.96,2561,0.41909385
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q3 2013,65171.98,667,0.33660677
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q3 2013,152830.86,2093,0.2810189
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q3 2013,129553.2,477,0.38637703
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q3 2013,150088.32,426,0.39449932
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q3 2013,216120.06,494,0.45397609
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q3 2013,137330.29,4514,0.50695509
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q3 2013,63056.49,903,0.41028211
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2013,Q3 2013,27478.53,1899,0.53351762
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q3 2013,46151.8,2921,0.52531646
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q3 2013,25559.46,953,0.37844892
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q3 2013,15203.95,527,0.37608319
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q3 2013,45261.04,836,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q3 2013,34706,1036,0.44059701
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q3 2013,5110.7,98,0.44870566
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q3 2013,52131.12,1686,0.35316947
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q3 2013,17124.68,265,0.37126124
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q3 2013,45309.9,1697,0.52097378
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q3 2013,10740,1790,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q3 2013,3251.41,541,0.69550749
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q3 2013,27435.87,4062,0.64170846
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q3 2013,2030,406,0.61
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q3 2013,12759.6,2604,0.62244898
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q3 2013,1986,331,0.54
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q4 2013,34404.82,5457,0.53526831
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q4 2013,118975.36,5166,0.30830737
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,148068.24,2813,0.33564004
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,14335.18,226,0.26880025
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q4 2013,75817.44,5994,0.59601195
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q4 2013,29231.85,1535,0.47488784
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2013,Q4 2013,213330.75,345,0.35958599
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q4 2013,77181.96,95,0.39687979
+United States,Web,Department Store,Camping Equipment,Tents,Star Peg,2013,Q4 2013,11521.46,5841,0.493033
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q4 2013,296496.21,2099,0.39117603
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q4 2013,153514.86,1376,0.5289785
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q4 2013,83541.02,2753,0.44381383
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q4 2013,30988.65,1785,0.51326534
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,52226.34,547,0.3275893
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q4 2013,119387.7,1635,0.2810189
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q4 2013,222712,820,0.38637703
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q4 2013,280799.04,797,0.39449932
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q4 2013,97192.4,3150,0.51385088
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q4 2013,148458.58,2126,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q4 2013,57164.86,3640,0.52243389
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q4 2013,99885.9,3759,0.3726589
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2013,Q4 2013,10510.08,357,0.38858696
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q4 2013,35749.38,1347,0.33006782
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q4 2013,59953.65,1767,0.44768033
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2013,Q4 2013,7353.15,141,0.44870566
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q4 2013,17857.3,566,0.36608558
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q4 2013,2980.12,44,0.40011812
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q4 2013,106670.2,3975,0.52338844
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,4902,817,0.69
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2013,Q4 2013,7294,1042,0.73142857
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q4 2013,7987,1141,0.66714286
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q4 2013,2155,431,0.61
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q4 2013,3990,798,0.642
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,12627.4,2546,0.62699368
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q4 2013,816,136,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q4 2013,11429.25,498,0.38824332
+United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q4 2013,2034.47,389,0.63288719
+United States,Web,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q4 2013,1284,214,0.54
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q4 2013,129195.25,295,0.49537618
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2013,Q4 2013,91738.4,104,0.48883347
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2013,Q4 2013,124295.43,245,0.45250441
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2013,Q4 2013,75166.73,89,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2013,Q4 2013,131620.77,109,0.48738334
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q4 2013,183813.6,278,0.48336358
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2013,Q4 2013,80087.26,62,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q4 2013,244874.24,283,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2013,Q4 2013,110631.42,1996,0.53158443
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2013,Q4 2013,26304.72,312,0.51132724
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2013,Q4 2013,37752,220,0.46503497
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2013,Q4 2013,23517.54,2260,0.73092424
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2013,Q4 2013,39060.31,3133,0.51874422
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2013,Q4 2013,21042.34,101,0.61745224
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2013,Q4 2013,7728,736,0.75714286
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q4 2013,32370.97,2674,0.34576937
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,97785.32,1874,0.32981985
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q4 2013,77141.98,626,0.35437799
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,113095.69,1783,0.26880025
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2013,Q4 2013,324015.4,524,0.35958599
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Peg,2013,Q4 2013,6846.28,3493,0.48979592
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,45461.08,458,0.3426355
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q4 2013,249057.2,917,0.38637703
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q4 2013,10577.57,731,0.53351762
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q4 2013,16500.65,523,0.36608558
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,16408.32,2764,0.6866809
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q4 2013,39477.48,5865,0.64047097
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q4 2013,1805,361,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q4 2013,10565,2113,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q4 2013,8125,1625,0.642
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,5570,1114,0.63
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2013,Q4 2013,3126,521,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q4 2013,15025.9,962,0.42379491
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q4 2013,13898.5,722,0.27064935
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q4 2013,1914,319,0.54
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q4 2013,24468.68,2006,0.35069975
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,99349.81,1862,0.34459724
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q4 2013,140975.12,1144,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,95652.44,1508,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q4 2013,188443.26,1307,0.4798169
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q4 2013,68563.82,5926,0.43820225
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q4 2013,102027.75,165,0.35958599
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q4 2013,523135.6,740,0.35779557
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q4 2013,59895.52,74,0.39461249
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q4 2013,158255.91,1849,0.29898353
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q4 2013,293309.66,2066,0.39423748
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q4 2013,285471.2,2508,0.53832331
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,53093.58,551,0.3311988
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q4 2013,143046.18,1959,0.2810189
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q4 2013,109726.4,404,0.38637703
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q4 2013,295244.16,838,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q4 2013,178495.92,408,0.45397609
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q4 2013,35695.6,1165,0.51044386
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q4 2013,234279.65,3355,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q4 2013,40654.65,2563,0.52717586
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q4 2013,26231.04,891,0.38858696
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q4 2013,49386.44,911,0.44125979
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q4 2013,44347.35,1317,0.44347114
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q4 2013,9739.72,188,0.44505592
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q4 2013,48827.02,756,0.37091635
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q4 2013,104248.14,3877,0.52433847
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q4 2013,21592.81,629,0.54498835
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,13297.32,2230,0.68807248
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q4 2013,1460,292,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q4 2013,4245,849,0.642
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,4515,903,0.63
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q4 2013,5100,850,0.54
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q4 2013,6294.75,327,0.27064935
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q4 2013,20551.58,3283,0.53194888
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q4 2013,19845.32,851,0.31689537
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q4 2013,5374.7,1514,0.76056338
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2013,Q4 2013,52518.86,4162,0.59504414
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 6,2013,Q4 2013,48581.92,60,0.3948366
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator,2013,Q4 2013,101827.7,730,0.38346835
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q4 2013,76019.25,2840,0.41225255
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q4 2013,24844.3,1418,0.51771231
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,1462.72,28,0.0007657
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q4 2013,46075.62,631,0.2810189
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q4 2013,108162.24,307,0.39449932
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2013,Q4 2013,30557.52,987,0.51550388
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q4 2013,14012.88,878,0.53007519
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 2,2013,Q4 2013,17754.84,662,0.37844892
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2013,Q4 2013,18551.46,699,0.33006782
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Single,2013,Q4 2013,46239.1,1366,0.44638109
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2013,Q4 2013,1896.44,28,0.40011812
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q4 2013,51475.25,1889,0.5306422
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q4 2013,2758,394,0.66714286
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,4440,888,0.63
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q4 2013,2625,75,0.59885714
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Aloe Relief,2013,Q4 2013,345.18,66,0.63288719
+United States,Sales visit,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q4 2013,876,146,0.54
+United States,Sales visit,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2013,Q4 2013,53429.9,122,0.49537618
+United States,Sales visit,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2013,Q4 2013,135637.48,268,0.4511865
+United States,Sales visit,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2013,Q4 2013,72732,110,0.48336358
+United States,Sales visit,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2013,Q4 2013,127196.16,147,0.51345229
+United States,Sales visit,Department Store,Golf Equipment,Putters,Course Pro Putter,2013,Q4 2013,54691.98,749,0.61106546
+United States,Sales visit,Department Store,Golf Equipment,Putters,Blue Steel Putter,2013,Q4 2013,40974.66,486,0.51132724
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2013,Q4 2013,19687.7,3145,0.53194888
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q4 2013,9106.71,757,0.34164589
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,37189.44,698,0.34365616
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q4 2013,52865.67,429,0.35437799
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,41483.22,654,0.26880025
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q4 2013,67908.78,471,0.4798169
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q4 2013,23741.64,2052,0.43820225
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q4 2013,192994.62,273,0.35779557
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Peg,2013,Q4 2013,9462.82,4805,0.49222325
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q4 2013,63764.55,745,0.29898353
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q4 2013,184191.96,1290,0.39769358
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q4 2013,275556.72,1094,0.40447832
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q4 2013,128295.19,1183,0.51544052
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,20646.08,208,0.3426355
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q4 2013,51040.98,699,0.2810189
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q4 2013,105696,300,0.39449932
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q4 2013,69560.91,159,0.45397609
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q4 2013,86938.35,1245,0.41028211
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q4 2013,14188.44,889,0.53007519
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q4 2013,8714.24,296,0.38858696
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q4 2013,23821.6,440,0.44052457
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q4 2013,26096.5,779,0.44059701
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q4 2013,3782.14,74,0.43748777
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q4 2013,20974.84,326,0.36851104
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q4 2013,25785.92,976,0.51589705
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q4 2013,8067.48,237,0.54112808
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,3675,625,0.68367347
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q4 2013,2436,348,0.66714286
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q4 2013,8704.85,1309,0.63609023
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q4 2013,1340,268,0.61
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,4140,828,0.63
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q4 2013,2328,388,0.54
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q4 2013,18959.28,1576,0.34164589
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,85001.22,1629,0.32981985
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q4 2013,101171.83,821,0.35437799
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,88738.57,1399,0.26880025
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2013,Q4 2013,560833.9,1595,0.28900518
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2013,Q4 2013,135418.65,219,0.35958599
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Peg,2013,Q4 2013,7326.48,3738,0.48979592
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,52111.5,525,0.3426355
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q4 2013,132269.2,487,0.38637703
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2013,Q4 2013,13558.39,937,0.53351762
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q4 2013,16604.04,537,0.35316947
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,5736,956,0.69
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q4 2013,3191.31,531,0.69550749
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2013,Q4 2013,4550,650,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q4 2013,13199.76,1944,0.64359352
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q4 2013,5540,1108,0.608
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q4 2013,5148.55,407,0.28853755
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2013,Q4 2013,5813.5,302,0.27064935
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2013,Q4 2013,546,91,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q4 2013,1146,191,0.54
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2013,Q4 2013,41581.5,3442,0.3444046
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2013,Q4 2013,77667.15,3399,0.30284464
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2013,Q4 2013,19428.84,5583,0.75574713
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2013,Q4 2013,149384.09,2833,0.33681016
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2013,Q4 2013,102773.82,834,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2013,Q4 2013,94383.84,1488,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2013,Q4 2013,139854.6,970,0.4798169
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2013,Q4 2013,74953.74,5718,0.44660533
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2013,Q4 2013,284460.58,809,0.28900518
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2013,Q4 2013,182413.25,295,0.35958599
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2013,Q4 2013,458804.06,649,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2013,Q4 2013,191665.92,240,0.38643239
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2013,Q4 2013,7561.68,3858,0.48979592
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q4 2013,206015.13,2407,0.29898353
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2013,Q4 2013,223674.7,1564,0.39866243
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q4 2013,293943.96,1167,0.40447832
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q4 2013,97315.87,963,0.47998564
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2013,Q4 2013,50462.91,2069,0.38499385
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2013,Q4 2013,35638,2060,0.51156069
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2013,Q4 2013,34568.5,371,0.31783705
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2013,Q4 2013,246920.82,3347,0.28836499
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2013,Q4 2013,145306,535,0.38637703
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2013,Q4 2013,430535.04,1222,0.39449932
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2013,Q4 2013,188558.19,431,0.45397609
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2013,Q4 2013,123459.44,1768,0.41028211
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2013,Q4 2013,28393.44,1972,0.53119453
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2013,Q4 2013,44489,2831,0.5227472
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2013,Q4 2013,54803.43,2054,0.3752183
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2013,Q4 2013,12983.04,441,0.38858696
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2013,Q4 2013,46993.52,868,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2013,Q4 2013,29178.7,862,0.44638109
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2013,Q4 2013,9387,180,0.44870566
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2013,Q4 2013,15617.25,495,0.36608558
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2013,Q4 2013,44042.6,682,0.37084414
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2013,Q4 2013,75490.04,2798,0.52594514
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2013,Q4 2013,26549.08,772,0.5457982
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2013,Q4 2013,10038,1673,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2013,Q4 2013,5763.59,959,0.69550749
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2013,Q4 2013,24023.02,3538,0.64359352
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2013,Q4 2013,4120,824,0.61
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2013,Q4 2013,2630,526,0.608
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 15,2013,Q4 2013,3495,699,0.642
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2013,Q4 2013,5953.5,1215,0.62244898
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2013,Q4 2013,3414,569,0.54
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q4 2013,5338.3,422,0.28853755
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,2013,Q4 2013,1008,168,0.52833333
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2013,Q4 2013,528,88,0.54
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2013,Q4 2013,98856.45,1155,0.29898353
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2013,Q4 2013,149364.84,593,0.40447832
+China,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2013,Q4 2013,82702.44,684,0.56537921
+China,Sales visit,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2013,Q4 2013,2645,115,0.60869565
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q1 2014,84069.04,3672,0.30420331
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q1 2014,76822.67,1449,0.34040915
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,136169.15,1105,0.35437799
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q1 2014,66030.63,1041,0.26880025
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,42104.01,2297,0.45444626
+United States,Web,Department Store,Camping Equipment,Tents,Star Lite,2014,Q1 2014,457645.03,1268,0.30732341
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2014,Q1 2014,130471.85,211,0.35958599
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 2,2014,Q1 2014,190335.2,344,0.2904934
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 3,2014,Q1 2014,162596.2,230,0.35779557
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2014,Q1 2014,162990.87,206,0.38070151
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q1 2014,284757.93,3327,0.29898353
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q1 2014,87297.02,722,0.56992805
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q1 2014,91191.3,2638,0.45151632
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q1 2014,25749.5,1484,0.50148158
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q1 2014,48240.36,486,0.3426355
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q1 2014,85901.88,1170,0.28493998
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q1 2014,484806,1785,0.38637703
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,295223.27,905,0.3460419
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q1 2014,93386.62,3088,0.50399747
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q1 2014,192870.46,2762,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2014,Q1 2014,42344.49,2929,0.53309746
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,44480.25,3471,0.41474025
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2014,Q1 2014,27717.26,1028,0.38172965
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2014,Q1 2014,15838.72,538,0.38858696
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q1 2014,41973.67,1598,0.32308897
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q1 2014,8845,250,0.47032222
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2014,Q1 2014,8187.55,157,0.44870566
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q1 2014,4322.35,137,0.36608558
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2014,Q1 2014,57858.92,898,0.36940164
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q1 2014,103024.51,3853,0.52166848
+United States,Web,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2014,Q1 2014,3333.55,95,0.55485893
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q1 2014,1622.7,270,0.69550749
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q1 2014,2366,625,0.50338123
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q1 2014,4165,595,0.66714286
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q1 2014,1879,407,0.57762108
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q1 2014,1265,253,0.608
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q1 2014,1704.3,345,0.63765182
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,3400,967,0.47383824
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q1 2014,1908,318,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q1 2014,5110,146,0.59885714
+United States,Web,Department Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q1 2014,300,50,0.52833333
+United States,Web,Department Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q1 2014,334.72,64,0.63288719
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2014,Q1 2014,236101.15,524,0.50951531
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2014,Q1 2014,10919.52,12,0.50668161
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2014,Q1 2014,78447.05,155,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2014,Q1 2014,195940.24,232,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2014,Q1 2014,216147.87,179,0.48738334
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2014,Q1 2014,271822.8,396,0.50234638
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2014,Q1 2014,109797.05,85,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2014,Q1 2014,256988.16,297,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2014,Q1 2014,98741.84,1588,0.5432615
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2014,Q1 2014,20655.95,532,-0.06111798
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2014,Q1 2014,95409.6,556,0.52331002
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2014,Q1 2014,12910.32,1251,0.67054264
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2014,Q1 2014,21008.4,1721,0.4699801
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2014,Q1 2014,45022.96,212,0.62471592
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2014,Q1 2014,27267.96,2612,0.7557353
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q1 2014,165004.93,3151,0.33219892
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,155885.95,1265,0.35437799
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,54679.82,4726,0.4295592
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 3,2014,Q1 2014,233997.14,331,0.35779557
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q1 2014,13988.52,182,0.31693989
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,143744.88,456,0.32325604
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,45514.48,3354,0.44731874
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Extreme,2014,Q1 2014,27503.12,508,0.44052457
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q1 2014,65160.48,2706,0.37707641
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q1 2014,23454,3909,0.69
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q1 2014,4567.6,760,0.69550749
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q1 2014,6916,988,0.73142857
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q1 2014,7777,1111,0.66714286
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q1 2014,3140,628,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q1 2014,5035,1007,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q1 2014,15175.68,3072,0.63765182
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,18260,3652,0.63
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q1 2014,15750,2625,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q1 2014,14007,609,0.60869565
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q1 2014,4339.3,126,0.59232134
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q1 2014,360,60,0.52833333
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q1 2014,1820.04,348,0.63288719
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q1 2014,2778,463,0.54
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q1 2014,17790.08,1232,0.43767313
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q1 2014,77691.65,1465,0.34058486
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,137031.76,1112,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q1 2014,224478.77,3539,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q1 2014,91554.3,635,0.4798169
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q1 2014,31814.48,2533,0.57484076
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,43025.69,3210,0.4441414
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q1 2014,367091.28,1044,0.28900518
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q1 2014,389560.5,630,0.35958599
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q1 2014,5960.36,3041,0.48979592
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q1 2014,154917.9,1810,0.29898353
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q1 2014,328777.93,2357,0.38346835
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q1 2014,576461.7,2269,0.40958784
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q1 2014,85605.99,2937,0.40984352
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q1 2014,41001,2370,0.5
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q1 2014,259831.26,3545,0.28371783
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q1 2014,135528.4,499,0.38637703
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,461891.52,1311,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q1 2014,624368.87,1407,0.46168975
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q1 2014,75711.44,2471,0.51044386
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q1 2014,96993.87,1389,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q1 2014,45913.31,3173,0.53351762
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,32275.8,2085,0.51550388
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q1 2014,21080.52,786,0.37844892
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q1 2014,12751.7,442,0.37608319
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q1 2014,49024.16,908,0.43898437
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q1 2014,9395.16,354,0.33006782
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2014,Q1 2014,18461.1,354,0.44870566
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q1 2014,37406.1,1194,0.36160145
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q1 2014,22197.3,345,0.36851104
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q1 2014,111658.54,4179,0.52131373
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q1 2014,20189.73,587,0.54586119
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q1 2014,2838,473,0.69
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q1 2014,6983.48,1391,0.51797385
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q1 2014,980,196,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q1 2014,1135,227,0.608
+United States,Web,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q1 2014,1817,79,0.60869565
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q1 2014,38500.15,4855,0.48423707
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q1 2014,87472.98,1022,0.29898353
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,62712.96,178,0.39449932
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q1 2014,41823.6,1365,0.51044386
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q1 2014,47624.06,682,0.41028211
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,16605.8,1051,0.52531646
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2014,Q1 2014,10294.4,160,0.36851104
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q1 2014,30757.2,1140,0.52594514
+United States,Sales visit,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q1 2014,0,42,
+United States,Sales visit,Department Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,0,42,
+United States,Sales visit,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2014,Q1 2014,96003.25,217,0.50046483
+United States,Sales visit,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2014,Q1 2014,29232,42,0.5091954
+United States,Sales visit,Department Store,Golf Equipment,Putters,Course Pro Putter,2014,Q1 2014,40292.64,648,0.5432615
+United States,Sales visit,Department Store,Golf Equipment,Putters,Blue Steel Putter,2014,Q1 2014,0,42,
+United States,Sales visit,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2014,Q1 2014,13756.56,1333,0.67054264
+United States,Sales visit,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2014,Q1 2014,16705.92,1344,0.47948512
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q1 2014,40986.86,3425,0.42941957
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q1 2014,9662.8,406,0.33067227
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,51140.45,415,0.35437799
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q1 2014,81253.83,1281,0.26880025
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q1 2014,78578.1,545,0.4798169
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,19495.45,1685,0.4295592
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q1 2014,147440.47,410,0.30480417
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q1 2014,240538.15,389,0.35958599
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2014,Q1 2014,480264.4,868,0.2904934
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2014,Q1 2014,237531.84,336,0.35779557
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q1 2014,5891.76,3006,0.48979592
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q1 2014,103735.08,1212,0.29898353
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q1 2014,123448.65,885,0.38346835
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q1 2014,242044.2,948,0.412504
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q1 2014,57311.34,474,0.56992805
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q1 2014,16973.46,171,0.3426355
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q1 2014,25264.92,346,0.2810189
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q1 2014,155355.2,572,0.38637703
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,148808.19,441,0.36778661
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q1 2014,175848.99,389,0.47156751
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q1 2014,12067.38,382,0.52516619
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q1 2014,34007.21,487,0.41028211
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q1 2014,16192.9,1130,0.52896022
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,17269.4,1270,0.44844638
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q1 2014,13126.75,455,0.37608319
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q1 2014,33877.66,629,0.43761139
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q1 2014,33495.28,1391,0.37707641
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2014,Q1 2014,7196.7,138,0.44870566
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q1 2014,4638,150,0.35316947
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q1 2014,3474.36,54,0.36851104
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q1 2014,74733.47,2782,0.52388428
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q1 2014,7566.5,220,0.54584022
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q1 2014,558.93,93,0.69550749
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q1 2014,6685,1201,0.56523261
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,3305,661,0.63
+United States,Sales visit,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q1 2014,1771,77,0.60869565
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q1 2014,72767.4,1380,0.33681016
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,106840.41,867,0.35437799
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q1 2014,53202.37,6709,0.48423707
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,30290.26,2618,0.4295592
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2014,Q1 2014,551211.57,1554,0.29518896
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 3,2014,Q1 2014,148457.4,210,0.35779557
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,81644.57,259,0.32325604
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,29246.8,2129,0.45404284
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Extreme,2014,Q1 2014,19436.26,359,0.44052457
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q1 2014,41008.24,1703,0.37707641
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q1 2014,7554,1259,0.69
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q1 2014,1239,177,0.73142857
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q1 2014,6188,884,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q1 2014,19309.43,2831,0.64519823
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q1 2014,3640,728,0.608
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q1 2014,5285.8,1070,0.63765182
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,5605.6,1144,0.62244898
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q1 2014,2952,492,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q1 2014,4715,205,0.60869565
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q1 2014,6683.6,193,0.59457179
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q1 2014,780,130,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q1 2014,392.25,75,0.63288719
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q1 2014,45033.58,3712,0.42721765
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q1 2014,75854.29,3305,0.3059239
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q1 2014,161833.23,3086,0.33315661
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q1 2014,94024.49,763,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q1 2014,79731.51,1257,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q1 2014,182243.52,1264,0.4798169
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q1 2014,19125.21,1653,0.4295592
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q1 2014,96233.8,260,0.32456164
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q1 2014,314121.8,508,0.35958599
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2014,Q1 2014,360539.4,510,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q1 2014,117753.21,149,0.37997444
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q1 2014,197627.31,2309,0.29898353
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q1 2014,135444.79,971,0.38346835
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q1 2014,197965.2,773,0.414291
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q1 2014,71820.54,594,0.56992805
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q1 2014,23474.02,542,0.49526668
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q1 2014,27091.8,1566,0.5
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q1 2014,130328.38,1313,0.3426355
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q1 2014,199155.78,2719,0.28323697
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q1 2014,340858,1255,0.38637703
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q1 2014,346552.12,1011,0.37765024
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q1 2014,225722.85,503,0.46768065
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q1 2014,106882.92,3524,0.50544016
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q1 2014,140218.64,2008,0.41028211
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q1 2014,32371.47,2259,0.52896022
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q1 2014,23585.12,1768,0.43778111
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q1 2014,64038.6,2412,0.37212806
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q1 2014,35456.65,1229,0.37608319
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q1 2014,36327.94,671,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q1 2014,13681.26,526,0.31641676
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q1 2014,46546.64,1933,0.37707641
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2014,Q1 2014,16868.08,328,0.44095594
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q1 2014,61468.96,1988,0.35316947
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q1 2014,15248.58,237,0.36851104
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q1 2014,59946.98,2269,0.51589705
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q1 2014,15062.82,438,0.5457982
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q1 2014,3696,616,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q1 2014,2961,423,0.73142857
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q1 2014,2667,381,0.66714286
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q1 2014,9082.64,1570,0.5816855
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q1 2014,1320,264,0.61
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q1 2014,1750,350,0.608
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q1 2014,2430.48,492,0.63765182
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q1 2014,4855,971,0.63
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2014,Q1 2014,3354,559,0.54
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q1 2014,2231,97,0.60869565
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q1 2014,2975,85,0.59885714
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2014,Q1 2014,455.01,87,0.63288719
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q1 2014,1086,181,0.54
+United States,E-mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2014,Q2 2014,10422.09,1631,0.52895149
+United States,E-mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,5434.85,365,0.45466756
+United States,E-mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q2 2014,22137.07,349,0.26880025
+United States,E-mail,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q2 2014,20405.55,33,0.35958599
+United States,E-mail,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q2 2014,2181.6,1080,0.5049505
+United States,E-mail,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q2 2014,37278.24,148,0.40447832
+United States,E-mail,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q2 2014,22928.28,314,0.2810189
+United States,E-mail,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,49677.12,141,0.39449932
+United States,E-mail,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q2 2014,31499.28,72,0.45397609
+United States,E-mail,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,6401.97,393,0.53959484
+United States,E-mail,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,10234,425,0.37707641
+United States,E-mail,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,3416.4,52,0.38158295
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,32205.4,2276,0.42614841
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q2 2014,78380.95,3443,0.30025102
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q2 2014,15287.64,4393,0.75
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q2 2014,88162.92,2172,0.16728212
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q2 2014,201111.36,1632,0.35437799
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q2 2014,60004.78,946,0.26880025
+United States,Web,Department Store,Camping Equipment,Tents,Star Dome,2014,Q2 2014,526669.07,825,0.37968637
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 3,2014,Q2 2014,272878.84,386,0.35779557
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2014,Q2 2014,295734.58,371,0.38529339
+United States,Web,Department Store,Camping Equipment,Tents,Star Peg,2014,Q2 2014,8149.7,4121,0.49433721
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,206871.03,2417,0.29898353
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q2 2014,118768.82,3667,0.43439179
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,38872.2,3145,0.40533981
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,151789.18,1526,0.32828117
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q2 2014,378610.4,1394,0.38637703
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,154316.16,438,0.39449932
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q2 2014,43753.92,1428,0.51044386
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q2 2014,55165.7,790,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2014,Q2 2014,22153.57,1531,0.53351762
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,36847.24,2341,0.5235057
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,39453.3,1486,0.37212806
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly 4,2014,Q2 2014,43143.27,1483,0.38127082
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q2 2014,24363.72,918,0.33006782
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,51181.8,1832,0.41588533
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2014,Q2 2014,12460.14,242,0.44161944
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,27165.25,419,0.37331812
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q2 2014,88724.04,5316,0.40083883
+United States,Web,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2014,Q2 2014,18177.36,534,0.54112808
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q2 2014,1904,272,0.73142857
+United States,Web,Department Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q2 2014,3990,570,0.66714286
+United States,Web,Department Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q2 2014,1776,296,0.54
+United States,Web,Department Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q2 2014,5005,143,0.59885714
+United States,Web,Department Store,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q2 2014,306,51,0.54
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2014,Q2 2014,152844.55,349,0.49537618
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2014,Q2 2014,144664.4,164,0.49110078
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2014,Q2 2014,60227.09,119,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2014,Q2 2014,91213.56,108,0.50270552
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Titanium Woods Set,2014,Q2 2014,194412.33,161,0.48738334
+United States,Web,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2014,Q2 2014,40333.2,61,0.48336358
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,2014,Q2 2014,240261.78,186,0.52776509
+United States,Web,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2014,Q2 2014,151424,175,0.51345229
+United States,Web,Department Store,Golf Equipment,Putters,Course Pro Putter,2014,Q2 2014,102008.84,2191,0.45240079
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Putter,2014,Q2 2014,20740.26,246,0.51132724
+United States,Web,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2014,Q2 2014,72243.6,421,0.52331002
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,2014,Q2 2014,16020.18,2511,0.46708464
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2014,Q2 2014,39667.5,3225,0.47398374
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Golf Bag,2014,Q2 2014,43959.74,211,0.61745224
+United States,Web,Department Store,Golf Equipment,Golf Accessories,Course Pro Gloves,2014,Q2 2014,21225.6,3960,0.52425373
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,51373.78,3601,0.43083573
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q2 2014,102944.52,714,0.4798169
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2014,Q2 2014,594244.2,1074,0.2904934
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,165873.42,1938,0.29898353
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,21555.8,1246,0.5
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,130129.86,1311,0.3426355
+United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,389309.05,1235,0.32325604
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2014,Q2 2014,38026.12,2638,0.53172977
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,14954.52,2172,-0.08930277
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,65152.08,2460,0.37057727
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q2 2014,14517.38,547,0.33006782
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,60327.34,1735,0.46104204
+United States,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q2 2014,13440.3,426,0.36608558
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q2 2014,17670,2945,0.69
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q2 2014,5799.65,965,0.69550749
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q2 2014,2667,381,0.73142857
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q2 2014,13188,1884,0.66714286
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q2 2014,35909.02,5210,0.64888488
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q2 2014,6290,1258,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q2 2014,9760,1952,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q2 2014,6387.42,1293,0.63765182
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 30,2014,Q2 2014,4340,868,0.63
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q2 2014,11340,1890,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q2 2014,15847,689,0.60869565
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q2 2014,15540,449,0.59433977
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q2 2014,3012,502,0.52833333
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q2 2014,1087.84,208,0.63288719
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q2 2014,2970,495,0.54
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,30324,2100,0.43767313
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q2 2014,29590.75,1295,0.30284464
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q2 2014,147641.33,2955,0.30563921
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q2 2014,83549.94,678,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q2 2014,335925.28,5296,0.26880025
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q2 2014,171285.84,1188,0.4798169
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q2 2014,34175.76,2721,0.57484076
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q2 2014,61368.8,3280,0.46552646
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q2 2014,164870.86,258,0.38031499
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2014,Q2 2014,302570.32,428,0.35779557
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q2 2014,62931.83,77,0.40046237
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,114091.47,1333,0.29898353
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q2 2014,73855.49,503,0.41428863
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q2 2014,600230.04,2383,0.40447832
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q2 2014,272903.95,2363,0.54974635
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,55151.78,553,0.31025345
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q2 2014,346936.68,4742,0.28241949
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,196594.56,558,0.39449932
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q2 2014,313680.33,717,0.45397609
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q2 2014,46227.46,662,0.41028211
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,37019.4,2343,0.52531646
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,20141.82,751,0.37844892
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q2 2014,40457.1,1383,0.38468155
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q2 2014,69677.96,1288,0.44008809
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,88246.86,3319,0.40359192
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2014,Q2 2014,6883.8,132,0.44870566
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q2 2014,42857.95,1367,0.36207868
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,47153.6,729,0.3718556
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q2 2014,15269.16,444,0.5457982
+United States,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q2 2014,6937,991,0.65428571
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q2 2014,1210,242,0.61
+United States,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q2 2014,2980,596,0.608
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,14385.74,986,0.44345442
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q2 2014,7564.05,2155,0.75213675
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q2 2014,0,199,
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q2 2014,30897.6,2460,0.57484076
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Dome,2014,Q2 2014,188270.36,294,0.3816127
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 3,2014,Q2 2014,113817.34,161,0.35779557
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 6,2014,Q2 2014,45046.53,57,0.37997444
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,76003.92,888,0.29898353
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q2 2014,50681.95,1565,0.43546864
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,12446.52,1007,0.40533981
+United States,Sales visit,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,44964.78,453,0.3426355
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q2 2014,97776,360,0.38637703
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,13550.04,849,0.53007519
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,19337.22,721,0.37844892
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly 4,2014,Q2 2014,11040,375,0.38858696
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,23918.66,683,0.46487721
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,9844.02,153,0.36851104
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q2 2014,32478.74,1946,0.40083883
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2014,Q2 2014,7875.31,229,0.5457982
+United States,Sales visit,Department Store,Golf Equipment,Irons,Hailstorm Steel Irons,2014,Q2 2014,88027.95,201,0.49537618
+United States,Sales visit,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2014,Q2 2014,53647.66,106,0.4511865
+United States,Sales visit,Department Store,Golf Equipment,Woods,Hailstorm Steel Woods Set,2014,Q2 2014,109759.2,166,0.48336358
+United States,Sales visit,Department Store,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,2014,Q2 2014,72683.52,84,0.51345229
+United States,Sales visit,Department Store,Golf Equipment,Putters,Blue Steel Putter,2014,Q2 2014,17536.48,208,0.51132724
+United States,Sales visit,Department Store,Golf Equipment,Putters,Blue Steel Max Putter,2014,Q2 2014,45474,265,0.52331002
+United States,Sales visit,Department Store,Golf Equipment,Golf Accessories,Course Pro Umbrella,2014,Q2 2014,17538.73,1411,0.47948512
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2014,Q2 2014,31312.52,5002,0.51916933
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q2 2014,56172.95,2440,0.30804417
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q2 2014,11925.96,3427,0.75
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q2 2014,61114.07,1354,0.24118325
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q2 2014,83426.71,677,0.35437799
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q2 2014,59687.63,941,0.26880025
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q2 2014,51472.26,357,0.4798169
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q2 2014,24647.02,1941,0.57946478
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q2 2014,32274.75,1725,0.46552646
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q2 2014,375530.16,1068,0.28900518
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q2 2014,154749.3,240,0.38584536
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2014,Q2 2014,212467.2,384,0.2904934
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2014,Q2 2014,173907.24,246,0.35779557
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q2 2014,69503.85,87,0.38665268
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,207127.8,2420,0.29898353
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q2 2014,43887.82,310,0.39254217
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q2 2014,273541.68,1086,0.40447832
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q2 2014,75383.74,642,0.55714588
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q2 2014,21458.79,801,0.38596491
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,13719.6,1110,0.40533981
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,65307.78,657,0.33279083
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q2 2014,80906.16,1108,0.2810189
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q2 2014,44270.8,163,0.38637703
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,143041.92,406,0.39449932
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q2 2014,281743.56,644,0.45397609
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q2 2014,54169.38,1786,0.50544016
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q2 2014,31982.14,458,0.41028211
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q2 2014,14050.37,971,0.53351762
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,15688.68,983,0.53007519
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,6624.54,247,0.37844892
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q2 2014,27465.2,952,0.37608319
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q2 2014,32459,602,0.4382273
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q2 2014,3742.14,141,0.33006782
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Double,2014,Q2 2014,5632.2,108,0.44870566
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q2 2014,22045.96,713,0.35316947
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,15932.86,246,0.37268136
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q2 2014,48951.77,2933,0.40083883
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q2 2014,1894.86,54,0.55485893
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q2 2014,1020,170,0.69
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q2 2014,4970,710,0.65428571
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q2 2014,420,84,0.61
+United States,Sales visit,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,2014,Q2 2014,114,19,0.52833333
+United States,Sales visit,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q2 2014,588,98,0.54
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2014,Q2 2014,38304.94,6119,0.51916933
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,20273.76,1404,0.43767313
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q2 2014,65746.08,456,0.4798169
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2014,Q2 2014,475207.73,1315,0.30819728
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2014,Q2 2014,300995.2,544,0.2904934
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,113663.52,1328,0.29898353
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,11781.3,681,0.5
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,57471.54,579,0.3426355
+China,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q2 2014,218454.39,693,0.32325604
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Lite,2014,Q2 2014,34205.71,2387,0.52896022
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,0,693,
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,29470.5,1110,0.37212806
+China,Web,Warehouse Store,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q2 2014,14201.46,546,0.31641676
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,36982.22,1067,0.4593191
+China,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q2 2014,20499.96,663,0.35316947
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q2 2014,3546,591,0.69
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q2 2014,2524.2,420,0.69550749
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q2 2014,2863,409,0.73142857
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q2 2014,5908,844,0.66714286
+China,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q2 2014,9775.5,1425,0.64723032
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q2 2014,1310,262,0.61
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q2 2014,4025,805,0.608
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q2 2014,2781.22,563,0.63765182
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q2 2014,6888,1148,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q2 2014,4600,200,0.60869565
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q2 2014,3255,93,0.59885714
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q2 2014,750,125,0.52833333
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q2 2014,439.32,84,0.63288719
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2014,Q2 2014,21563.61,1509,0.43177047
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2014,Q2 2014,40970.05,1793,0.30284464
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q2 2014,21116.64,6068,0.75
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q2 2014,80357.2,2029,0.14744254
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q2 2014,115589.74,938,0.35437799
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q2 2014,171070.71,2697,0.26880025
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q2 2014,68341.32,474,0.4798169
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q2 2014,47313.52,3767,0.57484076
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q2 2014,55150.45,2963,0.46274237
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q2 2014,582634.34,1657,0.28900518
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Dome,2014,Q2 2014,477819.51,747,0.38091268
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2014,Q2 2014,307081.5,555,0.2904934
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2014,Q2 2014,472942.86,669,0.35779557
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q2 2014,114716.58,142,0.39346169
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q2 2014,7663.6,3910,0.48979592
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q2 2014,109726.38,1282,0.29898353
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q2 2014,219842.59,1543,0.39639539
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q2 2014,440034.36,1747,0.40447832
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q2 2014,260653.2,2288,0.54354675
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q2 2014,40640.43,1517,0.38596491
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pillow,2014,Q2 2014,18107.4,1465,0.40533981
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q2 2014,93518.34,939,0.319719
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q2 2014,179045.04,2452,0.2810189
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q2 2014,157528,580,0.38637703
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q2 2014,253744.2,580,0.45397609
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q2 2014,39803.1,570,0.41028211
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q2 2014,28902.72,1848,0.52046036
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q2 2014,30877.65,1163,0.37212806
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2014,Q2 2014,35023.9,1214,0.37608319
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q2 2014,37140.04,686,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q2 2014,16828.47,647,0.31641676
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q2 2014,48521.2,2015,0.37707641
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Kerosene,2014,Q2 2014,21025.6,680,0.35316947
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q2 2014,52833.52,818,0.37094216
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q2 2014,4164,694,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q2 2014,407.93,113,0.49307479
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q2 2014,9453.08,1378,0.64723032
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q2 2014,1515,303,0.61
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q2 2014,1990,398,0.608
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter 15,2014,Q2 2014,0,113,
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,2014,Q2 2014,438,73,0.52833333
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Aloe Relief,2014,Q2 2014,590.99,113,0.63288719
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q2 2014,996,166,0.54
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2014,Q3 2014,30880.58,4933,0.51916933
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q3 2014,114796,2200,0.32981985
+United States,Web,Department Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2014,Q3 2014,50895.54,353,0.4798169
+United States,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2014,Q3 2014,18367.8,23,0.38642625
+United States,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q3 2014,93892.23,1097,0.29898353
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q3 2014,180854.32,636,0.41391635
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q3 2014,164885.76,468,0.39449932
+United States,Web,Department Store,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q3 2014,50487.09,723,0.41028211
+United States,Web,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2014,Q3 2014,4219.86,159,0.33006782
+United States,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2014,Q3 2014,37475.22,1389,0.52594514
+United States,Web,Department Store,Camping Equipment,Lanterns,Flicker Lantern,2014,Q3 2014,10784.28,312,0.54809779
+United States,Web,Department Store,Golf Equipment,Irons,Hailstorm Titanium Irons,2014,Q3 2014,141136,160,0.49110078
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Steel Irons,2014,Q3 2014,64275.97,127,0.4511865
+United States,Web,Department Store,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,2014,Q3 2014,90368.99,107,0.50270552
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q3 2014,18299.34,5239,0.7509238
+United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q3 2014,140687.74,2218,0.26880025
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2014,Q3 2014,349367.75,565,0.35958599
+United States,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2014,Q3 2014,614716.3,1111,0.2904934
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q3 2014,84395.18,698,0.56992805
+United States,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q3 2014,177179.1,1785,0.3426355
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q3 2014,9708,1618,0.69
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q3 2014,3822.36,636,0.69550749
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q3 2014,2583,369,0.73142857
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q3 2014,5894,842,0.66714286
+United States,Web,Warehouse Store,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q3 2014,24486.28,3614,0.64282529
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q3 2014,2710,542,0.61
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q3 2014,5615,1123,0.608
+United States,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q3 2014,5430,905,0.54
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q3 2014,9361,814,0.2173913
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q3 2014,13387.5,765,0.19771429
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Calamine Relief,2014,Q3 2014,756,126,0.52833333
+United States,Web,Warehouse Store,Outdoor Protection,First Aid,Aloe Relief,2014,Q3 2014,496.85,95,0.63288719
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q3 2014,25623.08,476,0.35036225
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2014,Q3 2014,115220.05,935,0.35437799
+United States,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q3 2014,17746.8,920,0.48159668
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q3 2014,582985.96,1658,0.28900518
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q3 2014,117753.21,149,0.37997444
+United States,Web,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q3 2014,6967.8,3555,0.48979592
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q3 2014,139342.45,975,0.39824511
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q3 2014,282105.6,1120,0.40447832
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q3 2014,107753.87,987,0.52369228
+United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q3 2014,53743.44,1239,0.49604007
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q3 2014,177803.7,2435,0.2810189
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q3 2014,243244.44,556,0.45397609
+United States,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Cooler,2014,Q3 2014,16006.32,517,0.51550388
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q3 2014,12849.36,888,0.53351762
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q3 2014,43047.07,2712,0.52749397
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q3 2014,31169.86,574,0.44220282
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Single,2014,Q3 2014,27840.9,795,0.46487721
+United States,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q3 2014,26613.9,413,0.36949526
+United States,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q3 2014,32404.8,2580,0.57484076
+United States,Sales visit,Department Store,Camping Equipment,Tents,Star Peg,2014,Q3 2014,5962.32,3042,0.48979592
+United States,Sales visit,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q3 2014,57307.6,211,0.38637703
+United States,Sales visit,Department Store,Camping Equipment,Lanterns,Firefly Lite,2014,Q3 2014,11344.48,784,0.53351762
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q3 2014,54575.55,1035,0.33681016
+United States,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q3 2014,12884.1,1005,0.58346334
+United States,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Peg,2014,Q3 2014,2593.68,1284,0.5049505
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Lite,2014,Q3 2014,32096.25,375,0.29898353
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2014,Q3 2014,48028.36,336,0.39835547
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q3 2014,90928.68,361,0.40447832
+United States,Sales visit,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q3 2014,15081.1,158,0.45521215
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q3 2014,69471.27,243,0.41704852
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2014,Q3 2014,55314.24,157,0.39449932
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q3 2014,79185.69,181,0.45397609
+United States,Sales visit,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Carryall,2014,Q3 2014,63126.32,904,0.41028211
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2014,Q3 2014,4386.69,297,0.54299255
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 2,2014,Q3 2014,7554.12,276,0.39093898
+United States,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Flicker Lantern,2014,Q3 2014,7084.34,206,0.5457982
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Spray,2014,Q3 2014,1520.53,253,0.69550749
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,2014,Q3 2014,1064,152,0.73142857
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Lotion,2014,Q3 2014,2345,335,0.66714286
+United States,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Blocker,2014,Q3 2014,1160,232,0.61
+United States,Sales visit,Outdoors Shop,Outdoor Protection,First Aid,Calamine Relief,2014,Q3 2014,312,52,0.52833333
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Cup,2014,Q3 2014,10899.36,3132,0.75
+China,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2014,Q3 2014,95335.29,1503,0.26880025
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Dome,2014,Q3 2014,186123.35,301,0.35958599
+China,Web,Warehouse Store,Camping Equipment,Tents,Star Gazer 2,2014,Q3 2014,320360.7,579,0.2904934
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2014,Q3 2014,81976.98,678,0.56992805
+China,Web,Warehouse Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2014,Q3 2014,78216.88,788,0.3426355
+China,Web,Warehouse Store,Outdoor Protection,Sunscreen,Sun Shield,2014,Q3 2014,3246,541,0.54
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Compact Relief Kit,2014,Q3 2014,3565,310,0.2173913
+China,Web,Warehouse Store,Outdoor Protection,First Aid,Insect Bite Relief,2014,Q3 2014,540,90,0.54
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2014,Q3 2014,45028.18,7193,0.51916933
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2014,Q3 2014,92984.76,1782,0.32981985
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2014,Q3 2014,47263.28,3763,0.57484076
+China,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2014,Q3 2014,9979.2,528,0.47089947
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Lite,2014,Q3 2014,303448.06,863,0.28900518
+China,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2014,Q3 2014,64803.78,82,0.37997444
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2014,Q3 2014,157425,625,0.40447832
+China,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Pad,2014,Q3 2014,29580.73,683,0.49526668
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Climber Backpack,2014,Q3 2014,99088.14,1357,0.2810189
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2014,Q3 2014,189545.07,663,0.41704852
+China,Web,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Extreme Backpack,2014,Q3 2014,137371.86,314,0.45397609
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2014,Q3 2014,26838.24,1716,0.52046036
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2014,Q3 2014,19652.82,363,0.44052457
+China,Web,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2014,Q3 2014,16792.74,261,0.36851104
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Natural,2014,Q3 2014,3984,664,0.69
+China,Web,Outdoors Shop,Outdoor Protection,Insect Repellents,BugShield Extreme,2014,Q3 2014,10166.52,1482,0.64723032
+China,Web,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shelter Stick,2014,Q3 2014,2300,460,0.608
+China,Web,Outdoors Shop,Outdoor Protection,First Aid,Deluxe Family Relief Kit,2014,Q3 2014,5092.5,291,0.19771429
