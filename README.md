@@ -19,3 +19,11 @@ Outputs are save in the files graph1.pdf, graph2.pdf, and graph3.pdf
 born-mayer-NaCl.R: contains the code to generate the potential energy for NaCl
 
 born-mayer-NaCl.pdf: the output from the born-mayer-NaCl.R code.
+
+# Barplot of Dr. Tayo's teaching load at Pittsburg State University
+
+teaching_load.csv: dataset containing teaching load for different semesters
+
+teaching_load.R: R code to generate barplot
+
+teaching_load.pdf: output showing barplot
