@@ -1,4 +1,4 @@
-# Code to plot barplots of Dr. Tayo's teaching load at Pittsburg State University
+# Code to generate barplot of Dr. Tayo's teaching load at Pittsburg State University
 
 # author: Benjamin O. Tayo
 
